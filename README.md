@@ -21,9 +21,9 @@ figma_Project_link:https://www.figma.com/design/pvVgi2KqmUR23YkcTqjoae/MidTest?n
 http://127.0.0.1:8000/swagger/
 ## Getting Started
 
-1.Clone the repository: git clone https://github.com/Kurosu9/try_youtube.git
-2.Create venv: python -m venv venv
-3.Activate venv: source venv/bin/activate or ./venv/bin/activate (MacOS or linux), .\venv\Scripts\activate (Windows)
-4.Install from requirements.txt libraries: pip install -r requirements.txt
-5.Run the server: python manage.py runserver
+1.Clone the repository: git clone https://github.com/Kurosu9/try_youtube.git <br>
+2.Create venv: python -m venv venv<br>
+3.Activate venv: source venv/bin/activate or ./venv/bin/activate (MacOS or linux), .\venv\Scripts\activate (Windows)<br>
+4.Install from requirements.txt libraries: pip install -r requirements.txt<br>
+5.Run the server: python manage.py runserver<br>
 6.Access the project: (e.g., http://127.0.0.1:8000/)
