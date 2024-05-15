@@ -10,3 +10,10 @@ Key features of this Instagram clone include:
 - Uploading and sharing posts
 - Like and comment functionality of posts
 - Create chat with users
+
+##Figma design
+
+figma_Project_link:https://www.figma.com/design/pvVgi2KqmUR23YkcTqjoae/MidTest?node-id=141-568
+
+![figma scree](https://github.com/EB-coder/Instagram_clone/assets/73636880/2fe66836-ff39-42d8-9edc-8757199fcbd2)
+
