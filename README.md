@@ -11,9 +11,19 @@ Key features of this Instagram clone include:
 - Like and comment functionality of posts
 - Create chat with users
 
-##Figma design
+## Figma design
 
 figma_Project_link:https://www.figma.com/design/pvVgi2KqmUR23YkcTqjoae/MidTest?node-id=141-568
 
 ![figma scree](https://github.com/EB-coder/Instagram_clone/assets/73636880/2fe66836-ff39-42d8-9edc-8757199fcbd2)
 
+## Api documentation (Swagger)
+http://127.0.0.1:8000/swagger/
+## Getting Started
+
+1.Clone the repository: git clone https://github.com/Kurosu9/try_youtube.git
+2.Create venv: python -m venv venv
+3.Activate venv: source venv/bin/activate or ./venv/bin/activate (MacOS or linux), .\venv\Scripts\activate (Windows)
+4.Install from requirements.txt libraries: pip install -r requirements.txt
+5.Run the server: python manage.py runserver
+6.Access the project: (e.g., http://127.0.0.1:8000/)
