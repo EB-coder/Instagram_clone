@@ -27,3 +27,5 @@ http://127.0.0.1:8000/swagger/
 4. Install from requirements.txt libraries: ```pip install -r requirements.txt```<br>
 5. Run the server: ```python manage.py runserver```<br>
 6. Access the project: (e.g., http://127.0.0.1:8000/)
+
+## Feedback
