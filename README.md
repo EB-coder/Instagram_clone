@@ -12,20 +12,20 @@ Key features of this Instagram clone include:
 - Create chat with users
 
 ## Operating Environment
-Server: Runs on Django framework
-Client: Modern web browsers (Chrome, Firefox, Safari)
-Database: 'django.db.backends.sqlite3'
+Server: Runs on Django framework<br>
+Client: Modern web browsers (Chrome, Firefox, Safari)<br>
+Database: 'django.db.backends.sqlite3'<br>
 
 ## Functional Requirements
-###User Registration and Login:
-Users must be able to register with a unique username.
-Users must be able to log in using their username and password.
-###Profile Management:
-Users must be able to update their profile information and profile picture.
-###Image Posting:
-Users must be able to upload images with captions.
-###Interaction:
-Users must be able to like and comment on posts.
+User Registration and Login:<br>
+Users must be able to register with a unique username.<br>
+Users must be able to log in using their username and password.<br>
+Profile Management:<br>
+Users must be able to update their profile information and profile picture.<br>
+Image Posting:<br>
+Users must be able to upload images with captions.<br>
+Interaction:<br>
+Users must be able to like and comment on posts.<br>
 
 ## Figma design
 
